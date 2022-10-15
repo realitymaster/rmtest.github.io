@@ -5,9 +5,6 @@ description: >-
 
   This content is located in the .yml file.
 
-steps:
-
-# 1
-- title: main page
-  description: testing yml link to main page.
-  link: '{{ repoUrl }}/main'
+  [The main page is here](README.md)
+  
+  
