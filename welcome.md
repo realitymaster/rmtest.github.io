@@ -10,3 +10,6 @@ Please feel free to contribute to this manifesto.
 
 Ciao,
 Reality Master
+
+[the main page](README.md)
+
